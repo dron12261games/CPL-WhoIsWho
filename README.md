@@ -4,7 +4,7 @@ A community project organized by me, Doom Wads and Track Federal for russian doo
 
 # STATUS: ✅RELEASED
 
-### Download - [Latest Release](https://github.com/dron12261games/CPL-RRSP2/releases/download/v1/RRSP2.zip)
+### Download - [Latest Release](https://github.com/dron12261games/CPL-WhoIsWho/releases/download/v1/WHOISWHO.ZIP)
 
 # Links (all information inside)
 - [Doomworld]()
@@ -21,10 +21,6 @@ A community project organized by me, Doom Wads and Track Federal for russian doo
 
 # List of my maps:
 - Toxicomplex [MAP02]
-
-# Screenshots:
-
-## Speed of STARTAN
 ![Screen](./screens/1.png)
 ![Screen](./screens/2.png)
 ![Screen](./screens/3.png)
