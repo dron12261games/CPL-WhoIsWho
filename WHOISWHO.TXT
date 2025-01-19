@@ -1,0 +1,305 @@
+===========================================================================
+Advanced engine needed  : Any MBF21 source-port (UMAPINFO, MUSINFO,
+                          DEHEXTRA). 
+                          Woof! or its forks would be the best choice for 
+                          the play.
+Primary purpose         : Single play
+===========================================================================
+Title                   : Who Is Who
+Filename                : WHOISWHO.WAD
+Release date            : 19 Jan 2025
+Author                  : Doom Wads, DRON12261, Track Federal and other
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Russian Random Speedmap Pack Series, Gift For
+                          DRON12261, etc
+
+Description             : [en]
+                          In this community project, everyone got to try out
+                          the role of another mapper.
+                          The aim is to create a map in the style of a random
+                          mapper among other project members. Style can mean
+                          different detailing techniques, commonly used
+                          textures, a particular approach to implementing
+                          combat, different gimmicks, highlights or any other
+                          feature that can be taken from the mapper's
+                          previous maps. 
+                          
+                          
+                          
+                          [ru]
+                          В этом проекте сообщества каждый попробовал себя в 
+                          роли другого маппера.
+                          Цель - создать карту в стиле случайного маппера 
+                          среди других участников проекта. Стиль может 
+                          означать различные техники детализации, часто 
+                          используемые текстуры, особый подход к реализации 
+                          боя, различные трюки, гиммики или любые другие 
+                          особенности, которые можно взять из предыдущих карт 
+                          маппера. 
+
+Additional Credits to   : Project leaders: Doom Wads, DRON12261, Track
+                          Federal
+						  
+                          Mappers: Carton_Kobra, Kras, Ear1h, Track Federal,
+                          Doom Wads, DRON12261, Broy, Man With a Gun
+                          ENDOOM Screen: Peccatum Mihzamiz
+						  
+                          Menu Midi: "Men in Black (Midi ver)" by Will Smith
+						  
+                          Additional graphics: Doom Wads, Carton_Kobra
+						  
+                          Assembling: DRON12261
+						  
+                          TexturePack: UltimateDTex by DRON12261. Detailed 
+                          texturepack credits inside the wad file.
+						  
+                          Statusbar: from "Doom Classic Redux" by WorldMachine
+                          
+                          
+                          
+                          --------------------------------------------------
+                          -------------------- WARNING! [en] ---------------
+                          --------------------------------------------------
+                          The map list will be at the very bottom of this TXT
+                          file. It is strongly recommended not to look at it
+                          before playing, as IT WILL BE A SPOILER. One of the
+                          activities that this wad offers is to try to guess
+                          the style of the mapper for who the map was
+                          created, and those who created these maps. 
+                          YOU HAVE BEEN WARNED!
+                          --------------------------------------------------
+
+
+                          
+                          --------------------------------------------------
+                          ------------------- ВНИМАНИЕ! [ru] ---------------
+                          --------------------------------------------------
+                          Маплист будет находиться в самом низу этого 
+                          TXT-файла. Настоятельно рекомендуется не смотреть 
+                          его перед прохождением, так как ЭТО БУДЕТ СПОЙЛЕР. 
+                          Одна из активностей, которую предлагает этот вад, 
+                          попытаться угадать стиль маппера, под которого 
+                          была создана карта, и тех, кто создал эти карты. 
+                          ВЫ БЫЛИ ПРЕДУПРЕЖДЕНЫ!
+                          --------------------------------------------------
+
+===========================================================================
+* What is included *
+
+New levels              : 8 + 1 ending map
+Sounds                  : No
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01-MAP09
+Single Player           : Designed for
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes, not all maps
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 12 Days
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Aseprite
+Known Bugs              : DOOM Retro and DSDA Software Renderer break
+                          extremely heavily in the final location on MAP02,
+                          but it doesn't affect gameplay.
+May Not Run With        : Doom Retro v5.6 (visual bugs)
+Tested With             : Nugget Doom, Woof!, Doom Retro, DSDA
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use. If you remix, transform, or build upon the material, you must
+distribute your contributions under the same license as the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/dron12261games
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+------------------- WARNING! THERE WILL BE SPOILERS BELOW! -------------------
+------------------------------------------------------------------------------
+----------------------- ВНИМАНИЕ! НИЖЕ БУДУТ СПОЙЛЕРЫ! -----------------------
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+------------------- WARNING! THERE WILL BE SPOILERS BELOW! -------------------
+------------------------------------------------------------------------------
+----------------------- ВНИМАНИЕ! НИЖЕ БУДУТ СПОЙЛЕРЫ! -----------------------
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+------------------- WARNING! THERE WILL BE SPOILERS BELOW! -------------------
+------------------------------------------------------------------------------
+----------------------- ВНИМАНИЕ! НИЖЕ БУДУТ СПОЙЛЕРЫ! -----------------------
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maplist:
+
+MAP01: "The Cellar" by Man With a Gun 
+Style: Carton_Kobra
+Music: "Keep Try!" by Mr.Freeze
+
+MAP02: "Toxicomplexis" by DRON12261
+Style: Man With a Gun
+Music: "Enigma" by Jimmy (James Paddock)
+       "Never Gonna Give You Up (Fail Recorder ver)" by Rec0rder Mast3r
+
+MAP03: "Space Outpost" by Doom Wads
+Style: Ear1h
+Music: "Aliens, Say Your Prayers!" by Robert Prince
+
+MAP04: "Explosive Repository" by Carton_Kobra
+Style: DukeNukem4ever
+Music: "Deadly Standards - Back in the Fray" by PRIMEVAL
+
+MAP05: "Lords" by Broy
+Style: Track Federal
+Music: "HUMAN2" from Warcraft: Orcs and Humans
+       "HUMAN3" from Warcraft: Orcs and Humans
+
+MAP06: "Dance of the Madman" by Track Federal
+Style: Kras
+Music: "Return of the Troubles" by Jeremy Doyle
+
+MAP07: "Hangover Day" by Kras
+Style: Doom Wads
+Music: "Похмельная (Hangover song)" by Семен Каштан (Semyon Kashtan)
+
+MAP08: "The Death That I Deservioli" by Ear1h
+Style: Broy
+Music: "Harbinger (Midi ver)" from Doom 4 Vanilla
+       "Bury The Light (Midi ver)" by suber person
+       "It Has to Be This Way (Midi ver)" by TheBlurCafe
+
+MAP09: "Thanks for playing!" by DRON12261
+Credits map
+Music: "Men in Black (Midi ver)" by Will Smith
+
+
+[en]
+There was supposed to be another map from DukeNukem4ever in the style of 
+DRON12261, but unfortunately due to various difficulties he was not able to 
+participate in the project.
+
+[ru]
+Должна была быть еще одна карта от DukeNukem4ever в стиле DRON12261, но, к 
+сожалению, из-за разных обстоятельств он не смог принять участие в проекте.
