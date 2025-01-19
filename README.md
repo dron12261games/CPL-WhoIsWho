@@ -18,12 +18,3 @@ A community project organized by me, Doom Wads and Track Federal for russian doo
 ![Screens3](./bonus/Screens3.png)
 ![Screens4](./bonus/Screens4.png)
 ![Gif](./bonus/WIW_Anim_Full.gif)
-
-# List of my maps:
-- Toxicomplex [MAP02]
-![Screen](./screens/1.png)
-![Screen](./screens/2.png)
-![Screen](./screens/3.png)
-![Screen](./screens/4.png)
-![Screen](./screens/5.png)
-![Screen](./screens/6.png)
