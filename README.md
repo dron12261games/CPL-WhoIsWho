@@ -18,3 +18,6 @@ A community project organized by me, Doom Wads and Track Federal for russian doo
 ![Screens3](./bonus/Screens3.png)
 ![Screens4](./bonus/Screens4.png)
 ![Gif](./bonus/WIW_Anim_Full.gif)
+
+# Trailer
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7L7ErogjdxI/0.jpg)](https://www.youtube.com/watch?v=7L7ErogjdxI)
