@@ -7,9 +7,9 @@ A community project organized by me, Doom Wads and Track Federal for russian doo
 ### Download - [Latest Release](https://github.com/dron12261games/CPL-WhoIsWho/releases/download/v1/WHOISWHO.ZIP)
 
 # Links (all information inside)
-- [Doomworld]()
-- [Doom Power]()
-- [Doomer Boards]()
+- [Doomworld](https://www.doomworld.com/forum/topic/150809-who-is-who-community-project-mbf21-8-maps/)
+- [Doom Power](https://i.iddqd.ru/viewtopic.php?p=143263#143263)
+- [Doomer Boards](https://doomer.boards.net/thread/3883/who-maps-mbf21-community-projects)
 
 # Project screenshots:
 ![Logo](./bonus/DW_MainLogo.png)
