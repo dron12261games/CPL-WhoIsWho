@@ -1,4 +1,5 @@
 ===========================================================================
+Update to               : WHOISWHO.ZIP
 Advanced engine needed  : Any MBF21 source-port (UMAPINFO, MUSINFO,
                           DEHEXTRA). 
                           Woof! or its forks would be the best choice for 
